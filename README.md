@@ -72,7 +72,7 @@ Examples for **correct** code for this rule:
 class Component extends React.Component {
   render() {
     <div>
-      <span style={{ height: "40vh" }}>I don't have style attribute</span>
+      <span className="classname">I don't have style attribute</span>
     </div>;
   }
 }
@@ -83,7 +83,7 @@ Examples for hack the rule: use the string literals
 class Component extends React.Component {
   render() {
     <div>
-      <span style={{ 'height': "40%" }}>I am having style attribute but I can render now</span>
+      <span style={{ "width": "50%" }}>I am having style attribute but I can render now</span>
     </div>;
   }
 }

@@ -1,6 +1,6 @@
 {
 	"name": "eslint-plugin-no-inline-styles",
-	"version": "1.0.2",
+	"version": "1.0.4",
 	"main": "index.js",
 	"dependencies": {
 		"lodash.get": "^4.4.2"
