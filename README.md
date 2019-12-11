@@ -37,7 +37,8 @@ Then configure the rules you want to use under the rules section.
     "rules": {
         "no-inline-styles/no-inline-styles": 2
     }
-}```
+}
+```
 
 
 You can change rule from 2 to 1 which is worning or you can disable with zero.
