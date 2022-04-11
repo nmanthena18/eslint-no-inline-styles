@@ -54,7 +54,7 @@ This is a rule to dissallow inline styling.
 
 This rule aims to dissallow inline styling where it appear in style attribute in react app.
 
-Examples oforf **incorrect** code for this rule:
+Examples of **incorrect** code for this rule:
 
 ```jsx
 class Component extends React.Component {
